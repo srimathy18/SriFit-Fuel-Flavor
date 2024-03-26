@@ -1,0 +1,14 @@
+gym-food/node_modules
+server/node_modules
+
+# Ignore any files ending with .log in both gym-food and server
+gym-food/*.log
+server/*.log
+
+# Ignore any files ending with .env in both gym-food and server
+gym-food/*.env
+server/*.env
+
+# Ignore any files ending with .DS_Store in both gym-food and server
+gym-food/.DS_Store
+server/.DS_Store
